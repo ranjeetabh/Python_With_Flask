@@ -1,4 +1,4 @@
-# Python_With_Flask_Deployment
+# Python_With_Flask
 
 This repository contains a sample code to test out deployment of a basic ML model using Python flask framework. Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier. It gives developers flexibility and is a more accessible framework for new developers since we can build a web application quickly using only a single Python file.
 
